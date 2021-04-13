@@ -1,1 +1,1 @@
-cus xd
+moje první "pořádná" hra v javě. projekt si musíte otevřít v nějakém java IDE, protože vážně nevím jak to mám exportovat. ale až to zjistím, tak sem dám *.jar soubor. jo a dělal jsem to podle YouTube tutorialu od týpka CodeNMore, tak mu dejte odběr :)
